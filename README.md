@@ -1,1 +1,1 @@
-# MusicSync
+# MusicSyc
